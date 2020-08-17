@@ -19,3 +19,5 @@ Kumpulan resep pengolahan data menggunakan Python, HDFS, Hive dan Apache Spark
 
 
 ## Python
+1. [Pandas - Berkenalan Dengan Pandas Dataframe](https://github.com/project303/Ngulik-Big-Data/blob/master/Berkenalan Dengan Pandas Dataframe.ipynb)
+
