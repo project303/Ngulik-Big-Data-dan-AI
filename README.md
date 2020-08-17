@@ -1,5 +1,5 @@
 # Ngulik Big Data
-Kumpulan resep menggunakan HDFS, Hive dan Apache Spark
+Kumpulan resep pengolahan data menggunakan Python, HDFS, Hive dan Apache Spark
 <br>
 
 ## pySpark
@@ -15,3 +15,7 @@ Kumpulan resep menggunakan HDFS, Hive dan Apache Spark
 
 ## Hive
 1. [Hive - Fungsi SPLIT](https://app.zepl.com/viewer/github/project303/Ngulik-Big-Data/blob/master/Hive%20-%20Fungsi%20SPLIT.json)
+
+
+
+## Python
