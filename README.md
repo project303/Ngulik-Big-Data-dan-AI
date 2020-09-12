@@ -1,5 +1,5 @@
 # Ngulik Big Data
-Kumpulan resep pengolahan data menggunakan Python, HDFS, Hive dan Apache Spark
+Kumpulan resep pengolahan data dan artificial intelligence
 <br>
 
 ## pySpark
