@@ -3,7 +3,7 @@ Kumpulan resep pengolahan data dan artificial intelligence
 <br>
 
 ## pySpark
-1. [pySaprk - Bermain Dengan Format Tanggal](https://github.com/project303/Ngulik-Big-Data/blob/master/Bermain_dengan_format_tanggal.ipynb)
+1. [pySpark - Bermain Dengan Format Tanggal](https://github.com/project303/Ngulik-Big-Data/blob/master/Bermain_dengan_format_tanggal.ipynb)
 
 2. [pySpark - Menulis ke Dalam Format Fixed-Width](https://app.zepl.com/viewer/github/project303/Ngulik-Big-Data/blob/master/pySpark%20-%20Menulis%20ke%20Dalam%20Format%20Fixed%20Width.json)
 
