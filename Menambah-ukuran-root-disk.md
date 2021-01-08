@@ -23,7 +23,7 @@ umount /dev/mapper/centos-home
 ```
 lvremove /dev/mapper/centos-home
 ```
-5. Buat logigal volume home yang baru dengan ukuran lebih kecil
+5. Buat logical volume home yang baru dengan ukuran lebih kecil
 ```
 lvcreate -L 400GB -n home centos
 mkfs.xfs /dev/centos/home
