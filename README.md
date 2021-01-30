@@ -23,3 +23,7 @@ Kumpulan resep pengolahan data dan artificial intelligence
 2. [Pandas - Berkenalan Dengan Pandas Dataframe](https://github.com/project303/Ngulik-Big-Data/blob/master/Berkenalan%20Dengan%20Pandas%20Dataframe.ipynb)
 3. [Penggunaan PyTesseract Pada Google Colab](https://github.com/project303/Ngulik-Big-Data/blob/master/Penggunaan_PyTesseract_pada_Google_Colab.ipynb)
 
+
+## Data Visualisasi
+1. [Instalasi Apache Superset 1.0 Pada Ubuntu]()
+
