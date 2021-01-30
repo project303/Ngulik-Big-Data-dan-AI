@@ -9,8 +9,6 @@ Apache Superset membutuhkan beberapa paket pada Ubuntu. Perintah berikut memasti
 sudo apt-get install build-essential libssl-dev libffi-dev python3-dev python3-pip libsasl2-dev libldap2-dev
 ```
 
-Setelah melakukan instalasi tools **python3-pip** maka akan tersedia 3 opsi python installation package yaitu **pip, pip3 dan pip3.8** (tergantung versi python 3 yang terinstall). PIP adalah package manager yang digunakan untuk melakukan instalasi paket-paket Python. Untuk seterusnya akan digunakan **pip3.8** sebagai tools untuk menginstall paket pada python.
-
 Sangat direkomendasikan untuk melakukan instalasi Superset pada **python virtual environment**. Untuk itu kita install virtual environment tools yang dibutuhkan
 ```
 sudo apt-get install python3-venv
