@@ -1,4 +1,4 @@
-# Ngulik Big Data
+# Ngulik Big Data dan AI
 Kumpulan resep pengolahan data dan artificial intelligence
 <br>
 
