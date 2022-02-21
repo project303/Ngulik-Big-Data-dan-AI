@@ -27,3 +27,8 @@ Kumpulan resep pengolahan data dan artificial intelligence
 ## Data Visualisasi
 1. [Instalasi Apache Superset 1.0 Pada Ubuntu](https://github.com/project303/Ngulik-Big-Data/blob/master/Instalasi%20Apache%20Superset%201.0%20Pada%20Ubuntu.md)
 
+
+## Free eBook
+1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+2. [Pandas: Powerful Python Data Analysis Toolkit - Wes McKinney](https://pandas.pydata.org/docs/pandas.pdf)
+3.
