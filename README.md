@@ -31,4 +31,4 @@ Kumpulan resep pengolahan data dan artificial intelligence
 ## Free eBook
 1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 2. [Pandas: Powerful Python Data Analysis Toolkit - Wes McKinney](https://pandas.pydata.org/docs/pandas.pdf)
-3.
+
