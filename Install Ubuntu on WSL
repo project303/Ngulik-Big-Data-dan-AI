@@ -1,0 +1,10 @@
+# Installing Ubuntu on WSL
+
+## Enable WSL
+
+Untuk system yang belum diaktifkan fitur WSL
+1. Open PowerShell as Administrator (Start menu > PowerShell > right-click > Run as Administrator) and enter this command:
+
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+https://docs.microsoft.com/en-us/windows/wsl/install-manual
