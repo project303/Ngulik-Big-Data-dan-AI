@@ -8,3 +8,15 @@ Untuk system yang belum diaktifkan fitur WSL
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
 https://docs.microsoft.com/en-us/windows/wsl/install-manual
+
+
+sudo apt update && sudo apt upgrade
+
+sudo apt install python3-pip
+
+pip3 --version
+
+pip3 install apache-airflow[gcp,statsd,sentry]==1.10.10
+
+
+https://insaid.medium.com/setting-up-apache-airflow-in-windows-using-wsl-8e0a87cd4945
