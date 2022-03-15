@@ -54,3 +54,7 @@ https://github.com/apache/airflow/issues/8211
 
 
 conda install jupyter notebook
+
+https://github.com/andreax79/airflow-code-editor
+
+https://stackoverflow.com/questions/48986732/airflow-creating-a-dag-in-airflow-via-ui
