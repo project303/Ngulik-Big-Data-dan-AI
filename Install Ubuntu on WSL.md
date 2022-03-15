@@ -46,3 +46,5 @@ echo $AIRFLOW_HOME
 deactivate
 
 https://insaid.medium.com/setting-up-apache-airflow-in-windows-using-wsl-8e0a87cd4945
+
+https://github.com/apache/airflow/issues/8211
