@@ -24,6 +24,7 @@ source airflow/bin/activate
 
 pip3 install apache-airflow[gcp,statsd,sentry]==1.10.10
 
+
 conda install airflow=1.10.10
 
 conda install attrs=19.3.0
@@ -39,6 +40,8 @@ conda install cattrs==1.0.0
 
 pip3 install cryptography
  
+pip3 install apache-airflow[gcp]==1.10.10 --constraint https://raw.githubusercontent.com/project303/Ngulik-Big-Data-dan-AI/master/airflow/airflow-python3.7.txt
+
 pip3 install pyspark==2.4.5
 
 echo $AIRFLOW_HOME
@@ -48,3 +51,6 @@ deactivate
 https://insaid.medium.com/setting-up-apache-airflow-in-windows-using-wsl-8e0a87cd4945
 
 https://github.com/apache/airflow/issues/8211
+
+
+conda install jupyter notebook
