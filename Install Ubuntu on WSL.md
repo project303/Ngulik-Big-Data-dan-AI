@@ -58,3 +58,16 @@ conda install jupyter notebook
 https://github.com/andreax79/airflow-code-editor
 
 https://stackoverflow.com/questions/48986732/airflow-creating-a-dag-in-airflow-via-ui
+
+
+Jika airflow resetdb, trus airflow webserver, muncu error
+
+Error: Already running on PID 6244 (or pid file '/home/marcofumagalli/airflow/airflow-webserver.pid' is stale)
+
+maka lakukan
+
+sudo lsof -i tcp:8080
+
+kill -9 semua pid
+
+delete file airflow-webserver.pid dan coba lagi airflow webverser
