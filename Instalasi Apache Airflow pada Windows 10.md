@@ -9,7 +9,7 @@ Untuk mengupdate ke WSL2, ikut Step 4 dan Step5
 
 Install Ubuntu melalui Microsoft Store. Ikuti Step 6
 
-Setelah selesai update Ubuntu
+Setelah selesai, lakukan update Ubuntu
 ```
 sudo apt update && sudo apt upgrade
 ```
